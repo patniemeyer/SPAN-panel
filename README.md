@@ -8,9 +8,7 @@ This is based on work by [hyun007](https://gist.github.com/hyun007/c689fbed10424
 
 *This is experimental.  SPAN does not yet offer an official API, so it may disappear or break at any time.*
 
-![screen](screen.png)
-
-
+<img src="screen.png" alt="Alt text" width="640"/>
 
 
 # Usage
